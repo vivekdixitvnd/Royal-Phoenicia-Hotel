@@ -1,11 +1,6 @@
 .hero {
-  position: relative;
-  width: 100%;
-  min-height: 70vh;
-  background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 2rem;
+  background: #e9ecef;
 }
 
 .overlay {
